@@ -1,5 +1,5 @@
 import {useState} from 'react'
-import { TodoItem, todoItemProp } from './data/TodoItem'
+import { TodoItem } from './data/TodoItem'
 import TodoList from './components/TodoList/TodoList'
 import { FormTodo } from './components/todoForm/FormTodo'
 import Search from './components/Search/Search'
